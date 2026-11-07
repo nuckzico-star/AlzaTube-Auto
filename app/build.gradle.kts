@@ -8,7 +8,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.alzatube.app"
+        applicationId = "com.alzatube.auto"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
